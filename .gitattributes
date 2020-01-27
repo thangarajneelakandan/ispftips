@@ -8,3 +8,4 @@
 *.pdf  binary     
 *.epub binary     
 *.mobi binary     
+TIPS.XMIT.PDS/*  git-encoding=BINARY zos-working-tree-encoding=BINARY binary
